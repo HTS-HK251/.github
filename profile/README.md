@@ -1,4 +1,4 @@
-# Khóa Học HTS - HK251 
+# Khóa Học HỆ THỐNG SỐ (TẶNG KÈM NHẬP MÔN ĐIỆN TOÁN) - HK251 
 
 ## 🎯 Mục tiêu
 - Ôn tập GK và CK, hướng dẫn về lab sử dụng các tool mô phỏng 
