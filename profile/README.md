@@ -1,4 +1,4 @@
-# Khóa Học HST - HK251 
+# Khóa Học HTS - HK251 
 
 ## 🎯 Mục tiêu
 - Ôn tập GK và CK, hướng dẫn về lab sử dụng các tool mô phỏng 
